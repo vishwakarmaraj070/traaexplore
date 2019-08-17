@@ -1,4 +1,4 @@
 # traaexplore
 this is the static website with modern loooking
 
-to see demo [click here]{https://raj-portfolio.netlify.com/}
+to see the demo [click here](https://traaexplore.netlify.com)
